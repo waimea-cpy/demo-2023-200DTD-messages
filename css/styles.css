@@ -55,7 +55,7 @@ div.message footer p {
 #new-message label {
     color: skyblue;
 }
-
+ 
 #new-message input[type=text],
 #new-message textarea {
     font-size: 1.5rem;
